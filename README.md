@@ -29,4 +29,4 @@ More API-powered projects will be added to this repository. Stay tuned!
 Feel free to contribute by adding your own API-based projects! Fork the repository, create a new branch, and submit a pull request.
 
 ## 📄 License
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](LICENSE).
