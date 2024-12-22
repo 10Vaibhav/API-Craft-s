@@ -20,6 +20,9 @@ Get inspired (or amused) by random quotes from Kanye West using a fun and quirky
 ### 5.📈 Stock Trading News Alert 
 A Python-powered stock tracking application that automatically sends SMS alerts with real-time stock performance and breaking news when significant market movements occur.
 
+### 6.📊 Pixela Progress Tracker
+Turn your daily progress into beautiful pixel graphs with this simple Python-based tracking tool.
+
 ## 🚀 Future Projects
 More API-powered projects will be added to this repository. Stay tuned!
 
