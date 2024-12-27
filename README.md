@@ -20,6 +20,9 @@ Get inspired (or amused) by random quotes from Kanye West using a fun and quirky
 ### 5.📈 Stock Trading News Alert 
 A Python-powered stock tracking application that automatically sends SMS alerts with real-time stock performance and breaking news when significant market movements occur.
 
+### 6.🎯 BoredNoMore
+A web application that helps cure boredom by suggesting activities based on type and number of participants. Never run out of things to do again!
+
 ## 🚀 Future Projects
 More API-powered projects will be added to this repository. Stay tuned!
 
