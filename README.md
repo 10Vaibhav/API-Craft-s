@@ -26,6 +26,10 @@ Turn your daily progress into beautiful pixel graphs with this simple Python-bas
 ### 7.🎯 BoredNoMore
 A web application that helps cure boredom by suggesting activities based on type and number of participants. Never run out of things to do again!
 
+### 8.🤫 Random Secrets Web Application
+
+A Node.js/Express application that displays random secrets fetched from the Secrets API.
+
 
 ## 🚀 Future Projects
 More API-powered projects will be added to this repository. Stay tuned!
