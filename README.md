@@ -30,6 +30,9 @@ A web application that helps cure boredom by suggesting activities based on type
 
 A Node.js/Express application that displays random secrets fetched from the Secrets API.
 
+### 9. 💪 Workout Tracker
+A command-line application that tracks your workouts using the Nutritionix API for natural language exercise processing and Sheety API for storing workout data in Google Sheets.
+
 
 ## 🚀 Future Projects
 More API-powered projects will be added to this repository. Stay tuned!
